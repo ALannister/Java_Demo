@@ -21,6 +21,7 @@ public class CollectionAddNull {
 	public void addNull() {
 		HashSet<String> set = new HashSet<>();
 		set.add(null);
+		set.add(null);
 		System.out.println("HashSet: " + set);
 		
 		TreeSet<String> set1 = new TreeSet<>();
@@ -33,17 +34,21 @@ public class CollectionAddNull {
 		
 		ArrayList<String> list = new ArrayList<>();
 		list.add(null);
+		list.add(null);
 		System.out.println("ArrayList: " + list);
 		
 		LinkedList<String> list2 = new LinkedList<>();
+		list2.add(null);
 		list2.add(null);
 		System.out.println("LinkedList: " + list2);
 		
 		Vector<String> list3 = new Vector<>();
 		list3.add(null);
+		list3.add(null);
 		System.out.println("Vector: " + list3);
 		
 		Stack<String> list4 = new Stack<>();
+		list4.add(null);
 		list4.add(null);
 		System.out.println("Stack: " + list4);
 		
@@ -65,6 +70,7 @@ public class CollectionAddNull {
 		System.out.println("ArrayDeque: " + queue2);
 		
 		HashMap<String, String> map = new HashMap<>();
+		map.put(null, null);
 		map.put(null, null);
 		System.out.println("HashMap: " + map);
 		
@@ -95,6 +101,7 @@ public class CollectionAddNull {
 		System.out.println("TreeMap: " + map3);
 		
 		WeakHashMap<String, String> map4 = new WeakHashMap<>();
+		map4.put(null, null);
 		map4.put(null, null);
 		System.out.println("WeakHashMap: " + map4);
 		

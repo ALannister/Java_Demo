@@ -12,7 +12,10 @@ import java.util.TreeMap;
 import java.util.TreeSet;
 import java.util.Vector;
 import java.util.WeakHashMap;
+import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.LinkedBlockingQueue;
+import java.util.concurrent.SynchronousQueue;
 
 import org.junit.Test;
 
@@ -117,5 +120,29 @@ public class CollectionAddNull {
 			System.out.println("ConcurrentHashMap Value can't be null");
 		}
 		System.out.println("ConcurrentHashMap: " + map5);
+
+		ArrayBlockingQueue<String> blockingQueue = new ArrayBlockingQueue<>(5);
+		try{
+			blockingQueue.add(null);
+    	} catch (Exception e) {
+      		System.out.println("ArrayBlockingQueue can't add null");
+		}
+    	System.out.println("ArrayBlockingQueue:" + blockingQueue);
+
+		LinkedBlockingQueue<String> blockingQueue2 = new LinkedBlockingQueue<>(5);
+		try{
+			blockingQueue2.add(null);
+		}catch (Exception e){
+			System.out.println("LinkedBlockingQueue can't add null");
+		}
+		System.out.println("LinkedBlockingQueue:" + blockingQueue2);
+
+		SynchronousQueue<String> blockingQueue3 = new SynchronousQueue<>();
+		try{
+			blockingQueue3.add(null);
+		}catch(Exception e){
+      		System.out.println("SynchronousQueue can't add null");
+		}
+    	System.out.println("SynchronousQueue:" + blockingQueue3);
 	}
 }

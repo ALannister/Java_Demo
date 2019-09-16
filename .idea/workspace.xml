@@ -5,36 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1607def5-f372-4017-8920-dab0188ce16e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/hp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lannister/java/demo/algorithm/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lannister/java/demo/collection/CollectionsSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lannister/java/demo/collection/HashMapTreefy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lannister/java/exam/Main29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lannister/java/exam/Main30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lannister/java/exam/Main31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lannister/java/exam/Main32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lannister/java/exam/Main33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lannister/java/exam/Main34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lannister/java/demo/test/ArraysLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lannister/java/exam/Main35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/algorithm/Traversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/algorithm/Traversal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/collection/CollectionAddNull.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/collection/CollectionAddNull.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/CountDownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/CountDownLatchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/CountDownLatchDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/CountDownLatchDemo02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/CyclicBarrierDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/CyclicBarrierDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/DeadLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/DeadLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/MyCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/MyCall.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/MyMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/MyMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/MyRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/MyRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/SemaphoreDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/SemaphoreDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/WaitDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/concurrent/WaitDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/oom/UnableToCreateNewNativeThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/oom/UnableToCreateNewNativeThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/test/InterfaceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/test/InterfaceDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/jvm/PrintFlagsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_demo/com/lannister/java/demo/jvm/PrintFlagsDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/lannister/java/demo/collection/CollectionAddNull.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lannister/java/demo/collection/CollectionAddNull.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lannister/java/demo/test/InterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lannister/java/demo/test/InterfaceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lannister/java/demo/jvm/PrintFlagsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lannister/java/demo/jvm/PrintFlagsDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,102 +26,105 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/algorithm/Search.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/concurrent/UnsafeListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+            <state relative-caret-position="152">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="105" column="17" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="22" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/test/AbstractDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/collection/CollectionAddNull.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69">
-              <caret line="610" selection-start-line="610" selection-end-line="610" />
-              <folding>
-                <element signature="e#19296#19297#0" expanded="true" />
-                <element signature="e#19379#19380#0" expanded="true" />
-                <element signature="e#24363#24364#0" expanded="true" />
+                <element signature="e#6252#6253#0" expanded="true" />
+                <element signature="e#6320#6321#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/collection/CollectionsSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#205#214#0" expanded="true" />
-                <element signature="e#937#938#0" expanded="true" />
-                <element signature="e#978#979#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/collection/HashMapTreefy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="830" selection-start-line="830" selection-end-line="830" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/jvm/PrintFlagsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <caret line="13" column="83" selection-start-line="13" selection-start-column="83" selection-end-line="13" selection-end-column="83" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/test/InterfaceDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/test/TreeMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/test/ArraysLength.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/test/StringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/jvm/ClassLoaderDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="65">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="61" column="66" selection-start-line="61" selection-start-column="66" selection-end-line="61" selection-end-column="66" />
+              <folding>
+                <element signature="e#3605#3606#0" expanded="true" />
+                <element signature="e#3644#3645#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72713">
+              <caret line="3896" column="5" selection-start-line="3896" selection-start-column="5" selection-end-line="3896" selection-end-column="5" />
+              <folding>
+                <element signature="e#177013#177014#0" expanded="true" />
+                <element signature="e#177054#177055#0" expanded="true" />
+                <element signature="e#177353#177354#0" expanded="true" />
+                <element signature="e#177410#177411#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8911">
+              <caret line="492" column="9" selection-start-line="492" selection-start-column="9" selection-end-line="492" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -174,17 +154,23 @@
         <option value="$PROJECT_DIR$/src/com/lannister/java/exam/Main34.java" />
         <option value="$PROJECT_DIR$/src/com/lannister/java/demo/algorithm/Search.java" />
         <option value="$PROJECT_DIR$/src/com/lannister/java/demo/test/InterfaceDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/lannister/java/demo/collection/CollectionAddNull.java" />
-        <option value="$PROJECT_DIR$/src/com/lannister/java/demo/collection/HashMapTreefy.java" />
         <option value="$PROJECT_DIR$/src/com/lannister/java/demo/collection/CollectionsSort.java" />
+        <option value="$PROJECT_DIR$/src/com/lannister/java/demo/collection/CollectionAddNull.java" />
+        <option value="$PROJECT_DIR$/src/com/lannister/java/demo/concurrent/ABADemo01.java" />
+        <option value="$PROJECT_DIR$/src/com/lannister/java/demo/collection/HashMapTreefy.java" />
+        <option value="$PROJECT_DIR$/src/com/lannister/java/exam/Main35.java" />
+        <option value="$PROJECT_DIR$/src/com/lannister/java/demo/concurrent/UnsafeListDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/lannister/java/demo/jvm/PrintFlagsDemo.kt" />
+        <option value="$PROJECT_DIR$/src/com/lannister/java/demo/jvm/PrintFlagsDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/lannister/java/demo/test/ArraysLength.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2052" />
-    <option name="y" value="736" />
-    <option name="width" value="640" />
-    <option name="height" value="359" />
+    <option name="x" value="537" />
+    <option name="y" value="192" />
+    <option name="width" value="642" />
+    <option name="height" value="360" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -223,7 +209,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_demo" type="b2602c69:ProjectViewProjectNode" />
@@ -231,8 +217,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMapTreefy.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="PrintFlagsDemo" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="java_demo" type="b2602c69:ProjectViewProjectNode" />
@@ -244,21 +238,14 @@
             </path>
             <path>
               <item name="java_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectionsSort">
+  <component name="RunManager" selected="JUnit.PrintFlagsDemo.test1">
     <configuration name="CollectionsSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lannister.java.demo.collection.CollectionsSort" />
       <module name="java_demo" />
@@ -308,6 +295,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lannister.java.exam.Main35" />
+      <module name="java_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lannister.java.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectionAddNull.addNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_demo" />
       <extension name="coverage">
@@ -324,32 +324,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintFlagsDemo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lannister.java.demo.algorithm.*" />
+          <option name="PATTERN" value="com.lannister.java.demo.jvm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lannister.java.demo.algorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.lannister.java.demo.algorithm.Search" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Search.binarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lannister.java.demo.algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lannister.java.demo.algorithm" />
-      <option name="MAIN_CLASS_NAME" value="com.lannister.java.demo.algorithm.Search" />
-      <option name="METHOD_NAME" value="binarySearchTest" />
+      <option name="PACKAGE_NAME" value="com.lannister.java.demo.jvm" />
+      <option name="MAIN_CLASS_NAME" value="com.lannister.java.demo.jvm.PrintFlagsDemo" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -357,13 +342,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrintFlagsDemo.test1" />
+        <item itemvalue="Application.Main35" />
+        <item itemvalue="JUnit.CollectionAddNull.addNull" />
         <item itemvalue="Application.CollectionsSort" />
         <item itemvalue="Application.HashMapTreefy" />
-        <item itemvalue="JUnit.CollectionAddNull.addNull" />
-        <item itemvalue="JUnit.Search.binarySearchTest" />
-        <item itemvalue="JUnit.Search" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -383,25 +371,17 @@
       <option name="project" value="LOCAL" />
       <updated>1567169059940</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加 笔试 + 例子">
+      <created>1567927354254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567927354255</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Search_binarySearchTest - 2019.09.04 at 22h 17m 05s.xml">
-      <configuration name="Search.binarySearchTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Sort_quickSortTest - 2019.09.04 at 22h 19m 18s.xml">
-      <configuration name="Sort.quickSortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Search_binarySearchTest - 2019.09.04 at 22h 20m 29s.xml">
-      <configuration name="Search.binarySearchTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Search - 2019.09.04 at 22h 22m 15s.xml">
-      <configuration name="Search" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Search - 2019.09.04 at 22h 24m 24s.xml">
-      <configuration name="Search" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Search_binarySearchTest - 2019.09.04 at 22h 30m 50s.xml">
       <configuration name="Search.binarySearchTest" configurationId="JUnit" />
     </history-entry>
@@ -417,12 +397,28 @@
     <history-entry file="CollectionAddNull_addNull - 2019.09.08 at 10h 25m 31s.xml">
       <configuration name="CollectionAddNull.addNull" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CollectionAddNull_addNull - 2019.09.09 at 11h 14m 55s.xml">
+      <configuration name="CollectionAddNull.addNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionAddNull_addNull - 2019.09.09 at 11h 17m 51s.xml">
+      <configuration name="CollectionAddNull.addNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionAddNull_addNull - 2019.09.09 at 11h 20m 40s.xml">
+      <configuration name="CollectionAddNull.addNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionAddNull_addNull - 2019.09.10 at 19h 13m 34s.xml">
+      <configuration name="CollectionAddNull.addNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrintFlagsDemo_test1 - 2019.09.16 at 20h 15m 06s.xml">
+      <configuration name="PrintFlagsDemo.test1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1096" height="1896" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49955156" visible="true" weight="0.3291506" />
-      <window_info id="Structure" order="1" sideWeight="0.5004484" side_tool="true" visible="true" weight="0.3291506" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.08462867" visible="true" weight="0.29021826" />
+      <window_info id="Structure" order="1" sideWeight="0.9137931" side_tool="true" weight="0.28536782" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -430,13 +426,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.358458" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.08462867" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39988494" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.37241378" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3296893" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32931036" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3283859" />
@@ -481,52 +477,22 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加 阿里笔试题" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 阿里笔试题" />
+    <MESSAGE value="添加 笔试 + 例子" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 笔试 + 例子" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/exam/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/concurrent/ThreadPoolExecutorDemo03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/exam/Main6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/exam/Main27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/exam/Main28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lannister/java/exam/Main29.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -611,13 +577,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/concurrent/UnsafeListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -714,13 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/collection/CollectionAddNull.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -747,19 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/collection/HashMapTreefy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/collection/CollectionsSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -770,6 +709,225 @@
             <element signature="e#937#938#0" expanded="true" />
             <element signature="e#978#979#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/concurrent/ProducerConsumer_lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="61" column="41" lean-forward="true" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/concurrent/ProducerConsumer_BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="171" column="14" selection-start-line="171" selection-start-column="14" selection-end-line="171" selection-end-column="14" />
+          <folding>
+            <element signature="e#3652#3653#0" expanded="true" />
+            <element signature="e#3708#3709#0" expanded="true" />
+            <element signature="e#3820#3821#0" expanded="true" />
+            <element signature="e#3855#3856#0" expanded="true" />
+            <element signature="e#9697#9698#0" expanded="true" />
+            <element signature="e#9732#9733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/SynchronousQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="181" column="25" selection-start-line="181" selection-start-column="25" selection-end-line="181" selection-end-column="25" />
+          <folding>
+            <element signature="e#34990#34991#0" expanded="true" />
+            <element signature="e#35017#35018#0" expanded="true" />
+            <element signature="e#39082#39083#0" expanded="true" />
+            <element signature="e#39106#39107#0" expanded="true" />
+            <element signature="e#39454#39455#0" expanded="true" />
+            <element signature="e#39482#39483#0" expanded="true" />
+            <element signature="e#40030#40031#0" expanded="true" />
+            <element signature="e#40064#40065#0" expanded="true" />
+            <element signature="e#40781#40782#0" expanded="true" />
+            <element signature="e#40808#40809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/AbstractQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1136">
+          <caret line="1026" column="17" selection-start-line="1026" selection-start-column="17" selection-end-line="1026" selection-end-column="17" />
+          <folding>
+            <element signature="e#7388#7389#0" expanded="true" />
+            <element signature="e#7427#7428#0" expanded="true" />
+            <element signature="e#9211#9212#0" expanded="true" />
+            <element signature="e#9245#9246#0" expanded="true" />
+            <element signature="e#9956#9957#0" expanded="true" />
+            <element signature="e#10001#10002#0" expanded="true" />
+            <element signature="e#32384#32385#0" expanded="true" />
+            <element signature="e#32434#32435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/concurrent/ProducerConsumer_sync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/test/PriorityQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/collection/CollectionAddNull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2451">
+          <caret line="146" column="5" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/concurrent/ABADemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/collection/HashMapTreefy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/exam/Main35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/exam/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13148">
+          <caret line="745" column="16" selection-start-line="745" selection-start-column="16" selection-end-line="745" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72713">
+          <caret line="3896" column="5" selection-start-line="3896" selection-start-column="5" selection-end-line="3896" selection-end-column="5" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+            <element signature="e#177353#177354#0" expanded="true" />
+            <element signature="e#177410#177411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8911">
+          <caret line="492" column="9" selection-start-line="492" selection-start-column="9" selection-end-line="492" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="61" column="66" selection-start-line="61" selection-start-column="66" selection-end-line="61" selection-end-column="66" />
+          <folding>
+            <element signature="e#3605#3606#0" expanded="true" />
+            <element signature="e#3644#3645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/concurrent/UnsafeListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="105" column="17" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="22" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/jvm/ClassLoaderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/test/ArraysLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/test/TreeMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/test/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lannister/java/demo/jvm/PrintFlagsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="83" selection-start-line="13" selection-start-column="83" selection-end-line="13" selection-end-column="83" />
         </state>
       </provider>
     </entry>
